@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wonderful Sumbar</string>
+    <string name="wisata_name">Nama Wisata</string>
+    <string name="sort_description">Sort Description</string>
+    <string name="people_icon">People Icon</string>
+    <string name="profile">Profile</string>
+    <string name="description">Description</string>
+    <string name="back_icon">Back Icon</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="email">Email</string>
+</resources>
